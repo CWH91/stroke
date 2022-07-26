@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
 # Stroke Prediction App
-This app predicts the possibility of stroke, depending on a multitude of health facotrs.""")
+This app predicts the possibility of stroke, depending on a multitude of health factors.""")
 
 st.sidebar.header('Health Parameters')
 
